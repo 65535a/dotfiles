@@ -22,7 +22,7 @@ alert = #bd2c40
 monitor = eDP1
 monitor-fallback = ${env:MONITOR:LVDS-1}
 width = 100%
-height = 30
+height = 16
 ;offset-x = 1%
 ;offset-y = 1%
 radius = 0.0
@@ -43,7 +43,7 @@ padding-right = 2
 module-margin-left = 1
 module-margin-right = 2
 
-font-0 = fixed:pixelsize=10;1
+font-0 = consolas:pixelsize=10;1
 font-1 = unifont:fontformat=truetype:size=8:antialias=false;0
 font-2 = wunconsiji:pixelsize=12;1
 
