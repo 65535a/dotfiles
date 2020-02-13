@@ -18,9 +18,9 @@ exec --no-startup-id nitrogen --restore
 exec --no-startup-id picom --config ~/.config/picom/picom.conf
 
 # class                 border  bground text    indicator child_border
-client.focused          #262626 #777777 #FFFFFF #F4F4F4   #FFFFFF
-client.focused_inactive #333333 #5F676A #FFFFFF #F4F4F4   #AFAFAF
-client.unfocused        #333333 #222222 #888888 #292D2E   #CFCFCF
+client.focused          #262626 #777777 #FFFFFF #444444   #444444
+client.focused_inactive #333333 #5F676A #FFFFFF #333333   #333333
+client.unfocused        #333333 #222222 #888888 #333333   #333333
 client.urgent           #2F343A #900000 #FFFFFF #900000   #900000
 client.placeholder      #000000 #0C0C0C #FFFFFF #000000   #0C0C0C
 

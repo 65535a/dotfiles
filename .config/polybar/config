@@ -9,7 +9,7 @@
 
 [colors]
 ;background = ${xrdb:color0:#222}
-background = #222
+background = #222222
 background-alt = #444
 ;foreground = ${xrdb:color7:#222}
 foreground = #dfdfdf
@@ -35,7 +35,7 @@ line-size = 1
 line-color = #f00
 
 border-size = 1
-border-color = #CFCFCFCF
+border-color = #333333
 
 padding-left = 0
 padding-right = 2
